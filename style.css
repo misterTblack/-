@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif 
+}
+
+header {
+
+    background-color: #EE82EE;
+    padding: 10px;
+
+}
+
+nav {
+    background-color: Plum;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif 
+}
+
+nav a {
+    background-color: grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+header img {
+    border: 30px;
+        
+}
+
+h1 {
+
+     font-family: 'Courier New', Courier, monospace; 
+     color: Gray;
+     background-color: black;
+     border-radius: 10px ;
+    
+     text-align: center;
+}
+
+
+footer {
+    background-color: #EE82EE;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif 
+
+}
+
+html {
+     background-color: Plum;
+}
